@@ -1,0 +1,11 @@
+# Ig# Ignore Mac system files
+.DS_store
+
+# Ignore visual studio folder
+.vs
+
+# Ignore vs config files
+.vsconfig
+
+# Ignore files related to API keys
+.env
